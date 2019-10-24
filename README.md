@@ -14,6 +14,8 @@ Lancer l'application :
 
 - Afficher la(les) étude(s) d'un docteur : Docteur.find(id_du_docteur).studies
 
+- Afficher la ville d'un docteur : Docteur.find(id_du-docteur).city
+
 ## Auteur
 
  ~ Orgeret Florence ~
